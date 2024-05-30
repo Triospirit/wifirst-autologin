@@ -4,7 +4,7 @@ wifirst autologin coded in python [should be working in 2024]
 # How to install:
 1) please make sure you are using firefox, i wrote this script on a ubuntu-based server and firefox was already installed
 2) make sure you have python3 installed
-3)install the following dependencies Linux only 
+3) install the following dependencies (Linux only !)
 
 sudo apt-get update
 sudo apt-get install python3 python3-pip
